@@ -1,5 +1,5 @@
 #During the initial stages of this project it was named as 'organizer_gui' and 'Directory-Organizer' and the finale name of the project is CleanFolder , soo If you find files named the older way im sorry they will be updated in the future commits 
-# Directory Organizer Pro 📂  
+# CleanFolder , A simple Folder organizer 📂  
 
 A simple yet powerful desktop application with a clean graphical user interface (GUI) to automatically organize files in a directory based on their extension. Tidy up messy folders like "Downloads" with a single click.
 
